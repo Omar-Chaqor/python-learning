@@ -1,1 +1,2 @@
-# python-learning
+This repository will contain the programs and projects I work on in order for me to better my coding skills.
+It will contain basic programs, optimization problems, statistics and data treatement situations.
