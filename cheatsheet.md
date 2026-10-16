@@ -1,0 +1,1 @@
+This document contains all the operations I learn and would like to keep nearby
